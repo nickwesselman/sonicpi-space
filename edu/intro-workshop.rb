@@ -8,8 +8,8 @@
 ### https://docs.google.com/presentation/d/1hM8h_EJXejI0-OGHbXvQfRCBAXrMnCGGrOX6CnF85os/edit#slide=id.p
 ###
 
-# Use Cmd+/ (Mac) or Ctrl+/ to uncomment blocks of code
-
+# This file is not meant to be played straight through.
+# Copy/paste values into your buffer. :)
 
 ### GETTING STARTED
 
